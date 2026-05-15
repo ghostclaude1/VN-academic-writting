@@ -50,7 +50,7 @@ Cột **"Dùng ở đâu"** ghi tên section cụ thể trong báo cáo ĐATN.
 | **Tác giả** | Fei Tony Liu, Kai Ming Ting, Zhi-Hua Zhou |
 | **Nơi đăng** | IEEE ICDM 2008 |
 | **DOI** | 10.1109/ICDM.2008.17 |
-| **File PDF** | ✅ `liu2008_isolation_forest.pdf` (252 KB) |
+| **File PDF** | ✅ `papers/liu2008_isolation_forest.pdf` (252 KB) |
 | **Mức liên quan** | ⭐⭐⭐ |
 | **Dùng ở đâu** | Chương 2 §2.4 (Phương pháp IF), Chương 3 §3.5 (Thiết kế mô hình) |
 
@@ -159,7 +159,7 @@ RRCF là streaming variant của random forest-based anomaly detection, xử lý
 | **Nơi đăng** | Journal of Finance and Data Science, vol. 10, 2024 |
 | **DOI** | 10.1016/j.jfds.2024.100129 |
 | **UQAM PDF** | https://marketsurveillance.esg.uqam.ca/wp-content/uploads/.../Deep-Unsupervised... |
-| **File PDF** | ✅ `poutre2024_hfm_anomaly.pdf` (1.6 MB) |
+| **File PDF** | ✅ `papers/poutre2024_hfm_anomaly.pdf` (1.6 MB) |
 | **Mức liên quan** | ⭐⭐⭐ |
 | **Dùng ở đâu** | Chương 1 §1.4 (tình hình nghiên cứu), Chương 2 §2.4, Chương 3 §3.7 (justify Known-Event eval) |
 
@@ -182,7 +182,7 @@ Framework Transformer-AE + OC-SVM cho LOB tick data NASDAQ (5 stocks, 1 ngày), 
 | **Nơi đăng** | MDPI Mathematics, vol. 12, no. 9, 2024 |
 | **DOI** | 10.3390/math12091336 |
 | **URL** | https://www.mdpi.com/2227-7390/12/9/1336 |
-| **File PDF** | ✅ `nunez2024_kpartitioned_IF.pdf` (467 KB) |
+| **File PDF** | ✅ `papers/nunez2024_kpartitioned_IF.pdf` (467 KB) |
 | **Mức liên quan** | ⭐⭐⭐ |
 | **Dùng ở đâu** | Chương 1 §1.4 (tình hình nghiên cứu, so sánh gap), Chương 2 §2.4 |
 
@@ -204,7 +204,7 @@ k-IF ensemble với voting, 8 stocks Mỹ (2003), 55 labeled blocks từ SEC. Re
 | **Tác giả** | JiAn Yang, Lili Liu |
 | **Nơi đăng** | Opast Publishers – Engineering Open Access, 2025 |
 | **URL** | https://www.opastpublishers.com/open-access-articles/...9525.html |
-| **File PDF** | ✅ `yang_liu2025_lstm_gan.pdf` (2.6 MB) |
+| **File PDF** | ✅ `papers/yang2025_LSTM_GAN.pdf` (2.6 MB) |
 | **Mức liên quan** | ⭐⭐⭐ |
 | **Dùng ở đâu** | Chương 1 §1.4 (gap: daily data vs tick data), Chương 2 §2.4 |
 
@@ -409,7 +409,7 @@ MemStream dùng denoising autoencoder + memory module để handle concept drift
 | **Nơi đăng** | Tạp chí KH&CN ĐH Bình Dương, tập 7, số 1, 2024 |
 | **DOI** | 10.56097/binhduonguniversityjournalofscienceandtechnology.v7i1.212 |
 | **URL** | https://jst.bdu.edu.vn/index.php/jst/article/download/212/171 |
-| **File PDF** | ✅ `VN1_le_hoang_anh2024.pdf` (1.4 MB) |
+| **File PDF** | ✅ `papers/le_hoang_anh2024_VN1.pdf` (1.4 MB) |
 | **Mức liên quan** | ⭐⭐⭐ |
 | **Dùng ở đâu** | Chương 1 §1.4 (tình hình nghiên cứu VN), học cách viết văn phong |
 
